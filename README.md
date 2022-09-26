@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <title>Barbearia Alura</title>
  <link rel="stylesheet" href="style.css">
-    <h1 style=" text-align: center;background: #cccccc;">Sobre a Barbearia Alura</h1>
+    <h1 style=" text-align: center;background: #cccccc;"> < Sobre a Barbearia Alura</h1>
 <style >
     p {
        text-align:center 
